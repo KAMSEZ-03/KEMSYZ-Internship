@@ -1,5 +1,5 @@
 # KEMSYZ-Internship
-This repository serves as a structured and continuously evolving record of my work, learning, and practical experience during my internship at CODELOUNGE, which commenced on 15 January 2026 and is scheduled to continue until 15 March 2026. It documents the tasks, experiments, and deliverables completed throughout the internship, reflecting my technical contributions, problem-solving approach, and progressive understanding of real-world systems and professional workflows.
+This repository serves as a structured and continuously evolving record of my work, learning, and practical experience during my internship at CODELOUNGE, which commenced on 15 January 2026 and is scheduled to continue until 28 February 2026. It documents the tasks, experiments, and deliverables completed throughout the internship, reflecting my technical contributions, problem-solving approach, and progressive understanding of real-world systems and professional workflows.
 
 As the internship is currently in progress, this repository will be regularly updated to include new developments, improvements, and insights gained over time. Each update aims to capture both the outcomes and the learning process behind the work, ensuring transparency and continuity.
 
